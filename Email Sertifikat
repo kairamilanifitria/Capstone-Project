@@ -1,0 +1,48 @@
+<HTML><HEAD><TITLE>Email Signature</TITLE>
+<img border="0" alt="Banner" width="514" style="width:514px; height:auto; border:0;" src="https://drive.google.com/uc?id=1qGHxD40EhO10pCYhbVcUX9M_QyhGkvEZ">
+</BODY></HTML><br/>
+
+Halo, @{triggerBody()?['entity']?['Nama_Formatted']}<br/>
+Terimakasih telah mengikuti acara Visitasi Laboratorium Teknik Elektro. <br/>
+Silahkan download sertifikat Anda di file terlampir : @{items('Apply_to_each')?['NameNoExt']}<br/>
+Moho untuk mengisi feedback di link berikut ini : https://forms.office.com/r/cDZUERrpw1 <br/>
+Terimakasih<br/>
+
+</HEAD>
+<BODY style="font-size: 10pt; font-family:Arial, sans-serif;">
+
+<table style="width:525px; font-size:10pt; font-family:Arial, sans-serif;" cellpadding="0" cellspacing="0" border="0">
+<tbody>
+ <tr>
+  <td style="font-size:10pt; width:180px; padding-right:10px; vertical-align:middle;" valign="middle"><p style="margin-bottom:25px; line-height:1.2"><strong><span style="font-size:12pt; font-family:Tahoma, sans-serif; color:#00396b">Kaira Milani Fitria</span></strong><br><span style="font-family:Tahoma, sans-serif; font-size:9pt; color:#000000;">Asisten Laboratorium</span>
+   </p>
+   
+   <a href="https://www.linkedin.com/in/kairamilanifitria/" target="_blank" rel="noopener"> <img border="0" alt="logo" width="143" style="width:143px; height:auto; border:0;" src="https://drive.google.com/uc?id=1RMPveELxUst7O_P81-MYV3S0__a6kK4R"> </a>	
+    						
+  </td>
+  
+  <td style="font-family:Tahoma, sans-serif; padding-left:15px; vertical-align:top; line-height:1.2; border-left:solid 2px #cccccc" valign="top">
+
+   <span style="font-size:9pt; font-family:Tahoma, sans-serif;color:#000000;">(+62) 88268210697
+      
+   <span style="font-size:9pt; font-family:Tahoma, sans-serif;color:#000000;"><br>kairaamilanii@member.maribelajar.org<br></span>
+   <span><strong><a href="http://www.laboratoriumelektro.com" target="_blank" rel="noopener" style="text-decoration:none;"><span style="font-size:9pt; font-family:Tahoma, sans-serif; color:#009fae;">www.laboratoriumelektro.com</span></a></strong></span>   
+   
+   <p style="margin-top:20px; margin-bottom:20px">
+   <span><a href="https://www.linkedin.com/in/kairamilanifitria/" target="_blank" rel="noopener"><img border="0" width="15" alt="facebook icon" style="border:0; height:15px; width:15px; " src="https://www.mail-signatures.com/signature-generator/img/templates/simple-and-light/fb.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;</span><span><a href="https://www.linkedin.com/in/kairamilanifitria/" target="_blank" rel="noopener"><img border="0" width="15" alt="linkedin icon" style="border:0; height:15px; width:15px; " src="https://www.mail-signatures.com/signature-generator/img/templates/simple-and-light/ln.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;</span><span><a href="https://www.linkedin.com/in/kairamilanifitria/" target="_blank" rel="noopener"><img border="0" width="15" alt="twitter icon" style="border:0; height:15px; width:15px; " src="https://www.mail-signatures.com/signature-generator/img/templates/simple-and-light/tt.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;</span><span><a href="https://www.linkedin.com/in/kairamilanifitria/" target="_blank" rel="noopener"><img border="0" width="15" alt="youtube icon" style="border:0; height:15px; width:15px; " src="https://www.mail-signatures.com/signature-generator/img/templates/simple-and-light/yt.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;</span><span><a href="https://www.linkedin.com/in/kairamilanifitria/" target="_blank" rel="noopener"><img border="0" width="15" alt="instagram icon" style="border:0; height:15px; width:15px; " src="https://www.mail-signatures.com/signature-generator/img/templates/simple-and-light/it.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;</span><span><a href="https://www.linkedin.com/in/kairamilanifitria/" target="_blank" rel="noopener"><img border="0" width="15" alt="pinterest icon" style="border:0; height:15px; width:15px; " src="https://www.mail-signatures.com/signature-generator/img/templates/simple-and-light/pt.png"></a></span>
+   </p>
+   
+   <a href="https://www.linkedin.com/in/kairamilanifitria/" target="_blank" rel="noopener" style="text-decoration:none;"><img alt="banner" width="257" style="width:257px; height:auto; border:0;" border="0"  src="https://drive.google.com/uc?id=1qGHxD40EhO10pCYhbVcUX9M_QyhGkvEZ"></a>   
+   
+
+   <p style="margin-top:5px; margin-bottom:0"><strong style="font-family:Tahoma, sans-serif; font-size:8pt; color:#000000;">Laboratorium Teknik Elektro</strong><span style="font-size:8pt; font-family:Tahoma, sans-serif;color:#000000;">Lampung, Indonesia</span><span style="font-size:8pt; font-family:Tahoma, sans-serif;color:#000000;">35153</span>   
+   </p>
+   
+  </span></td>
+ </tr>
+
+</tbody>
+</table>
+    
+</BODY>
+</HTML>
