@@ -1,121 +1,121 @@
-<mxfile host="app.diagrams.net" modified="2022-01-17T09:40:46.558Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="Ry9EJGZvKda_UKchqt4y" version="16.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-19T17:27:10.951Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="vZme_3CWmw3Pf4kqlu24" version="16.2.7" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="823" dy="451" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="782" dy="428" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="1-cIDiVZa9EnnmiFmrUG-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" target="1-cIDiVZa9EnnmiFmrUG-15">
+        <mxCell id="1-cIDiVZa9EnnmiFmrUG-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" target="1-cIDiVZa9EnnmiFmrUG-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="Membuat file &lt;i&gt;calendar (.ics)&lt;/i&gt; dengan &lt;i&gt;Microsoft Outlook&lt;/i&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;arcSize=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="Membuat file &lt;i&gt;calendar (.ics)&lt;/i&gt; dengan Microsoft Outlook" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;arcSize=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="240" y="150" width="400" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="1-cIDiVZa9EnnmiFmrUG-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1-cIDiVZa9EnnmiFmrUG-0" target="1-cIDiVZa9EnnmiFmrUG-1">
+        <mxCell id="1-cIDiVZa9EnnmiFmrUG-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1-cIDiVZa9EnnmiFmrUG-0" target="1-cIDiVZa9EnnmiFmrUG-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1-cIDiVZa9EnnmiFmrUG-0" value="Start" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="1-cIDiVZa9EnnmiFmrUG-0" value="Mulai" style="ellipse;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="380" y="40" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1-cIDiVZa9EnnmiFmrUG-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1-cIDiVZa9EnnmiFmrUG-1" target="WIyWlLk6GJQsqaUBKTNV-3">
+        <mxCell id="1-cIDiVZa9EnnmiFmrUG-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1-cIDiVZa9EnnmiFmrUG-1" target="WIyWlLk6GJQsqaUBKTNV-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1-cIDiVZa9EnnmiFmrUG-1" value="Membuat&amp;nbsp;&lt;i&gt;link&amp;nbsp;scheduled meeting&lt;/i&gt; dengan&amp;nbsp;&lt;i&gt;Microsoft Teams&lt;/i&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;arcSize=3;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="1-cIDiVZa9EnnmiFmrUG-1" value="Membuat&amp;nbsp;&lt;i&gt;link&amp;nbsp;scheduled meeting&lt;/i&gt; dengan&amp;nbsp;Microsoft Teams" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;arcSize=3;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="240" y="100" width="400" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="1-cIDiVZa9EnnmiFmrUG-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1-cIDiVZa9EnnmiFmrUG-8" target="1-cIDiVZa9EnnmiFmrUG-18">
+        <mxCell id="1-cIDiVZa9EnnmiFmrUG-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1-cIDiVZa9EnnmiFmrUG-8" target="1-cIDiVZa9EnnmiFmrUG-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1-cIDiVZa9EnnmiFmrUG-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1-cIDiVZa9EnnmiFmrUG-8" target="1-cIDiVZa9EnnmiFmrUG-9">
+        <mxCell id="1-cIDiVZa9EnnmiFmrUG-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1-cIDiVZa9EnnmiFmrUG-8" target="1-cIDiVZa9EnnmiFmrUG-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1-cIDiVZa9EnnmiFmrUG-8" value="Membuat &lt;i&gt;form &lt;/i&gt;pendaftaran dengan &lt;i&gt;Microsoft Forms&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="1-cIDiVZa9EnnmiFmrUG-8" value="Membuat &lt;i&gt;form &lt;/i&gt;pendaftaran dengan Microsoft Forms" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="240" y="250" width="400" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="1-cIDiVZa9EnnmiFmrUG-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.631;entryY=0.05;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="1-cIDiVZa9EnnmiFmrUG-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.631;entryY=0.05;entryDx=0;entryDy=0;entryPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="438" y="333" as="sourcePoint" />
             <mxPoint x="439.9200000000001" y="372" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1-cIDiVZa9EnnmiFmrUG-9" value="Membuat&amp;nbsp;&lt;i&gt;sharepoint list&amp;nbsp;&lt;/i&gt;dengan&amp;nbsp;&lt;i&gt;Microsoft Sharepoint&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="1-cIDiVZa9EnnmiFmrUG-9" value="Membuat&amp;nbsp;&lt;i&gt;sharepoint list&amp;nbsp;&lt;/i&gt;dengan&amp;nbsp;Microsoft Sharepoint" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="240" y="303" width="400" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="1-cIDiVZa9EnnmiFmrUG-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1-cIDiVZa9EnnmiFmrUG-10" target="1-cIDiVZa9EnnmiFmrUG-22">
+        <mxCell id="1-cIDiVZa9EnnmiFmrUG-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1-cIDiVZa9EnnmiFmrUG-10" target="1-cIDiVZa9EnnmiFmrUG-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1-cIDiVZa9EnnmiFmrUG-10" value="Menghubungkan isian &lt;i&gt;form &lt;/i&gt;dengan &lt;i&gt;sharepoint list &lt;/i&gt;dengan &lt;i&gt;Power Automate&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="1-cIDiVZa9EnnmiFmrUG-10" value="Menghubungkan isian &lt;i&gt;form &lt;/i&gt;dengan &lt;i&gt;sharepoint list &lt;/i&gt;dengan Power Automate" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="240" y="370" width="320" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1-cIDiVZa9EnnmiFmrUG-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1-cIDiVZa9EnnmiFmrUG-15" target="1-cIDiVZa9EnnmiFmrUG-8">
+        <mxCell id="1-cIDiVZa9EnnmiFmrUG-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1-cIDiVZa9EnnmiFmrUG-15" target="1-cIDiVZa9EnnmiFmrUG-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1-cIDiVZa9EnnmiFmrUG-15" value="Menyimpan file &lt;i&gt;calendar (.ics) &lt;/i&gt;ke &lt;i&gt;OneDrive&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="1-cIDiVZa9EnnmiFmrUG-15" value="Menyimpan file &lt;i&gt;calendar (.ics) &lt;/i&gt;ke &lt;i&gt;OneDrive&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="240" y="200" width="400" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="1-cIDiVZa9EnnmiFmrUG-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1-cIDiVZa9EnnmiFmrUG-18" target="1-cIDiVZa9EnnmiFmrUG-20">
+        <mxCell id="1-cIDiVZa9EnnmiFmrUG-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1-cIDiVZa9EnnmiFmrUG-18" target="1-cIDiVZa9EnnmiFmrUG-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1-cIDiVZa9EnnmiFmrUG-18" value="Membuat otomasi konfirmasi email pendaftaran dengan &lt;i&gt;Power Automate&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="1-cIDiVZa9EnnmiFmrUG-18" value="Membuat otomasi konfirmasi email pendaftaran dengan Power Automate" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="580" y="370" width="213" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1-cIDiVZa9EnnmiFmrUG-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1-cIDiVZa9EnnmiFmrUG-20" target="1-cIDiVZa9EnnmiFmrUG-22">
+        <mxCell id="1-cIDiVZa9EnnmiFmrUG-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1-cIDiVZa9EnnmiFmrUG-20" target="1-cIDiVZa9EnnmiFmrUG-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1-cIDiVZa9EnnmiFmrUG-20" value="Membuat otomasi email konfirmasi jadwal kegiatan dengan &lt;i&gt;Power Automate&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="1-cIDiVZa9EnnmiFmrUG-20" value="Membuat otomasi email konfirmasi jadwal kegiatan dengan&amp;nbsp;Power Automate" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="581.5" y="430" width="210" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1-cIDiVZa9EnnmiFmrUG-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="1-cIDiVZa9EnnmiFmrUG-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="400" y="530" as="sourcePoint" />
             <mxPoint x="400" y="560" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1-cIDiVZa9EnnmiFmrUG-22" value="Pelaksanaan kegiatan secara &lt;i&gt;meeting&lt;/i&gt; dengan &lt;i&gt;Microsoft Teams&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="1-cIDiVZa9EnnmiFmrUG-22" value="Pelaksanaan kegiatan secara &lt;i&gt;meeting&lt;/i&gt; dengan &lt;i&gt;Microsoft Teams&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="240" y="490" width="320" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1-cIDiVZa9EnnmiFmrUG-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1-cIDiVZa9EnnmiFmrUG-26" target="1-cIDiVZa9EnnmiFmrUG-31">
+        <mxCell id="1-cIDiVZa9EnnmiFmrUG-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1-cIDiVZa9EnnmiFmrUG-26" target="1-cIDiVZa9EnnmiFmrUG-31" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1-cIDiVZa9EnnmiFmrUG-26" value="Menerbitkan sertifikat &lt;i&gt;(.pdf) &lt;/i&gt;sesuai daftar hadir peserta dengan &lt;i&gt;mail merge Microsoft Word&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="1-cIDiVZa9EnnmiFmrUG-26" value="Menerbitkan sertifikat &lt;i&gt;(.pdf) &lt;/i&gt;sesuai daftar hadir peserta dengan &lt;i&gt;mail merge &lt;/i&gt;Microsoft Word" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="240" y="610" width="400" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1-cIDiVZa9EnnmiFmrUG-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1-cIDiVZa9EnnmiFmrUG-28" target="1-cIDiVZa9EnnmiFmrUG-26">
+        <mxCell id="1-cIDiVZa9EnnmiFmrUG-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1-cIDiVZa9EnnmiFmrUG-28" target="1-cIDiVZa9EnnmiFmrUG-26" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1-cIDiVZa9EnnmiFmrUG-28" value="Membuat desain sertifikat dengan&lt;i&gt;&amp;nbsp;Microsoft Powerpoint&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="1-cIDiVZa9EnnmiFmrUG-28" value="Membuat desain sertifikat dengan&lt;i&gt;&amp;nbsp;&lt;/i&gt;Microsoft Powerpoint" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="240" y="560" width="400" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="1-cIDiVZa9EnnmiFmrUG-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1-cIDiVZa9EnnmiFmrUG-31" target="1-cIDiVZa9EnnmiFmrUG-32">
+        <mxCell id="1-cIDiVZa9EnnmiFmrUG-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1-cIDiVZa9EnnmiFmrUG-31" target="1-cIDiVZa9EnnmiFmrUG-32" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1-cIDiVZa9EnnmiFmrUG-31" value="Membuat&amp;nbsp;&lt;i&gt;file spreadsheet&lt;/i&gt;&amp;nbsp;berisi nama penerima dan nama file sertifikat masing-masing dengan&amp;nbsp;&lt;i&gt;Microsoft Excel&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="1-cIDiVZa9EnnmiFmrUG-31" value="Membuat&amp;nbsp;&lt;i&gt;file spreadsheet&lt;/i&gt;&amp;nbsp;berisi nama penerima dan nama file sertifikat masing-masing dengan&amp;nbsp;Microsoft Excel" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="240" y="676" width="400" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1-cIDiVZa9EnnmiFmrUG-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1-cIDiVZa9EnnmiFmrUG-32" target="1-cIDiVZa9EnnmiFmrUG-33">
+        <mxCell id="1-cIDiVZa9EnnmiFmrUG-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1-cIDiVZa9EnnmiFmrUG-32" target="1-cIDiVZa9EnnmiFmrUG-33" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1-cIDiVZa9EnnmiFmrUG-32" value="Menyimpan file sertifikat (.pdf) setiap peserta dan &lt;i&gt;spreadsheet excel&amp;nbsp;&lt;/i&gt;&amp;nbsp;di&lt;i&gt;&amp;nbsp;OneDrive&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="1-cIDiVZa9EnnmiFmrUG-32" value="Menyimpan file sertifikat (.pdf) setiap peserta dan &lt;i&gt;spreadsheet excel&amp;nbsp;&lt;/i&gt;&amp;nbsp;di&lt;i&gt;&amp;nbsp;&lt;/i&gt;OneDrive" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="240" y="742" width="400" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1-cIDiVZa9EnnmiFmrUG-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1-cIDiVZa9EnnmiFmrUG-33" target="1-cIDiVZa9EnnmiFmrUG-54">
+        <mxCell id="1-cIDiVZa9EnnmiFmrUG-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1-cIDiVZa9EnnmiFmrUG-33" target="1-cIDiVZa9EnnmiFmrUG-54" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1-cIDiVZa9EnnmiFmrUG-33" value="Membuat &lt;i&gt;forms feedback &lt;/i&gt;kegiatan dengan &lt;i&gt;Microsoft Forms&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="1-cIDiVZa9EnnmiFmrUG-33" value="Membuat &lt;i&gt;forms feedback &lt;/i&gt;kegiatan dengan Microsoft Forms" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="240" y="805" width="400" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="1-cIDiVZa9EnnmiFmrUG-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1-cIDiVZa9EnnmiFmrUG-54" target="1-cIDiVZa9EnnmiFmrUG-56">
+        <mxCell id="1-cIDiVZa9EnnmiFmrUG-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1-cIDiVZa9EnnmiFmrUG-54" target="1-cIDiVZa9EnnmiFmrUG-56" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1-cIDiVZa9EnnmiFmrUG-54" value="Membuat otomasi pengiriman email sertifikat sesuai &lt;i&gt;rules spreadsheet&lt;/i&gt;&amp;nbsp; beserta &lt;i&gt;link feedback form &lt;/i&gt;dengan &lt;i&gt;Power Automate&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="1-cIDiVZa9EnnmiFmrUG-54" value="Membuat otomasi pengiriman email sertifikat sesuai &lt;i&gt;rules spreadsheet&lt;/i&gt;&amp;nbsp; beserta &lt;i&gt;link feedback form &lt;/i&gt;dengan Power Automate" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="240" y="860" width="400" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="1-cIDiVZa9EnnmiFmrUG-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1-cIDiVZa9EnnmiFmrUG-56" target="1-cIDiVZa9EnnmiFmrUG-59">
+        <mxCell id="1-cIDiVZa9EnnmiFmrUG-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1-cIDiVZa9EnnmiFmrUG-56" target="1-cIDiVZa9EnnmiFmrUG-59" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1-cIDiVZa9EnnmiFmrUG-56" value="Mengolah data &lt;i&gt;feedback &lt;/i&gt;menjadi grafik untuk analisa tingkat keberhasilan acara dengan menggunakan &lt;i&gt;Microsoft Excel&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="1-cIDiVZa9EnnmiFmrUG-56" value="Mengolah data &lt;i&gt;feedback &lt;/i&gt;menjadi grafik untuk analisa tingkat keberhasilan acara dengan menggunakan Microsoft Excel" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="240" y="920" width="400" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="1-cIDiVZa9EnnmiFmrUG-59" value="End" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="1-cIDiVZa9EnnmiFmrUG-59" value="Selesai" style="ellipse;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="380" y="980" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
