@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-01-20T04:40:30.933Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="HO5B-uQeQVQ5RiB8n19M" version="16.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-20T04:57:50.107Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="rZBDGV5tpkiXuzwwew6Z" version="16.4.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="705" dy="295" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1022" dy="428" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -29,10 +29,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1-cIDiVZa9EnnmiFmrUG-9" value="Membuat&amp;nbsp;&lt;i&gt;sharepoint list&amp;nbsp;&lt;/i&gt;dengan&amp;nbsp;Microsoft Sharepoint" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#99FFFF;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="90" y="330" width="340" height="30" as="geometry" />
+          <mxGeometry x="210" y="330" width="220" height="50" as="geometry" />
         </mxCell>
         <mxCell id="1-cIDiVZa9EnnmiFmrUG-10" value="Menghubungkan isian &lt;i&gt;form &lt;/i&gt;dengan &lt;i&gt;sharepoint list &lt;/i&gt;menggunakan Power Automate" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#99FFFF;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="90" y="390" width="340" height="40" as="geometry" />
+          <mxGeometry x="210" y="420" width="220" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1-cIDiVZa9EnnmiFmrUG-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1-cIDiVZa9EnnmiFmrUG-15" target="1-cIDiVZa9EnnmiFmrUG-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -44,66 +44,66 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1-cIDiVZa9EnnmiFmrUG-18" value="Membuat otomasi konfirmasi email pendaftaran dengan Power Automate" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#99FFFF;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="460" y="325" width="320" height="40" as="geometry" />
+          <mxGeometry x="460" y="325" width="200" height="65" as="geometry" />
         </mxCell>
         <mxCell id="1-cIDiVZa9EnnmiFmrUG-20" value="Membuat otomasi email konfirmasi jadwal kegiatan dengan&amp;nbsp;Power Automate" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#99FFFF;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="455" y="390" width="330" height="40" as="geometry" />
+          <mxGeometry x="455" y="420" width="205" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hLZOCiNGZijec_69T5MD-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1-cIDiVZa9EnnmiFmrUG-22" target="1-cIDiVZa9EnnmiFmrUG-28" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1-cIDiVZa9EnnmiFmrUG-22" value="Pelaksanaan kegiatan secara &lt;i&gt;meeting&lt;/i&gt; dengan Microsoft Teams" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#99FFFF;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="240" y="470" width="400" height="40" as="geometry" />
+          <mxGeometry x="240" y="530" width="400" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1-cIDiVZa9EnnmiFmrUG-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1-cIDiVZa9EnnmiFmrUG-26" target="1-cIDiVZa9EnnmiFmrUG-31" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1-cIDiVZa9EnnmiFmrUG-26" value="Menerbitkan sertifikat &lt;i&gt;(.pdf) &lt;/i&gt;sesuai daftar hadir peserta dengan &lt;br&gt;&lt;i&gt;mail merge &lt;/i&gt;Microsoft Word" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#99FFFF;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="240" y="590" width="400" height="40" as="geometry" />
+          <mxGeometry x="240" y="650" width="400" height="50" as="geometry" />
         </mxCell>
         <mxCell id="1-cIDiVZa9EnnmiFmrUG-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1-cIDiVZa9EnnmiFmrUG-28" target="1-cIDiVZa9EnnmiFmrUG-26" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1-cIDiVZa9EnnmiFmrUG-28" value="Membuat desain sertifikat dengan&lt;i&gt;&amp;nbsp;&lt;/i&gt;Microsoft Powerpoint" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#99FFFF;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="240" y="540" width="400" height="30" as="geometry" />
+          <mxGeometry x="240" y="600" width="400" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1-cIDiVZa9EnnmiFmrUG-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1-cIDiVZa9EnnmiFmrUG-31" target="1-cIDiVZa9EnnmiFmrUG-32" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1-cIDiVZa9EnnmiFmrUG-31" value="Membuat&amp;nbsp;&lt;i&gt;file spreadsheet&lt;/i&gt;&amp;nbsp;berisi nama penerima dan nama file sertifikat masing-masing dengan&amp;nbsp;Microsoft Excel" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#99FFFF;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="240" y="656" width="400" height="40" as="geometry" />
+          <mxGeometry x="240" y="730" width="400" height="50" as="geometry" />
         </mxCell>
         <mxCell id="1-cIDiVZa9EnnmiFmrUG-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1-cIDiVZa9EnnmiFmrUG-32" target="1-cIDiVZa9EnnmiFmrUG-33" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1-cIDiVZa9EnnmiFmrUG-32" value="Menyimpan file sertifikat (.pdf) setiap peserta dan &lt;i&gt;spreadsheet excel&amp;nbsp;&lt;/i&gt;&amp;nbsp;di&lt;i&gt;&amp;nbsp;&lt;/i&gt;OneDrive" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#99FFFF;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="240" y="722" width="400" height="40" as="geometry" />
+          <mxGeometry x="240" y="800" width="400" height="50" as="geometry" />
         </mxCell>
         <mxCell id="1-cIDiVZa9EnnmiFmrUG-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1-cIDiVZa9EnnmiFmrUG-33" target="1-cIDiVZa9EnnmiFmrUG-54" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1-cIDiVZa9EnnmiFmrUG-33" value="Membuat &lt;i&gt;forms feedback &lt;/i&gt;kegiatan dengan Microsoft Forms" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#99FFFF;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="240" y="785" width="400" height="35" as="geometry" />
+          <mxGeometry x="240" y="870" width="400" height="35" as="geometry" />
         </mxCell>
         <mxCell id="1-cIDiVZa9EnnmiFmrUG-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1-cIDiVZa9EnnmiFmrUG-54" target="1-cIDiVZa9EnnmiFmrUG-56" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1-cIDiVZa9EnnmiFmrUG-54" value="Membuat otomasi pengiriman email sertifikat sesuai &lt;i&gt;data spreadseheet&amp;nbsp;&lt;/i&gt;beserta &lt;i&gt;link feedback form &lt;/i&gt;dengan Power Automate" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#99FFFF;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="240" y="840" width="400" height="35" as="geometry" />
+          <mxGeometry x="240" y="930" width="400" height="49" as="geometry" />
         </mxCell>
         <mxCell id="1-cIDiVZa9EnnmiFmrUG-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1-cIDiVZa9EnnmiFmrUG-56" target="1-cIDiVZa9EnnmiFmrUG-59" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1-cIDiVZa9EnnmiFmrUG-56" value="Mengolah data &lt;i&gt;feedback &lt;/i&gt;menjadi grafik untuk analisa tingkat keberhasilan acara dengan menggunakan Microsoft Excel" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#99FFFF;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="240" y="900" width="400" height="35" as="geometry" />
+          <mxGeometry x="240" y="1004" width="400" height="46" as="geometry" />
         </mxCell>
         <mxCell id="1-cIDiVZa9EnnmiFmrUG-59" value="Selesai" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FF99CC;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="380" y="960" width="120" height="40" as="geometry" />
+          <mxGeometry x="380" y="1080" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="hLZOCiNGZijec_69T5MD-6" value="" style="endArrow=none;html=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="260" y="300" as="sourcePoint" />
-            <mxPoint x="620" y="300" as="targetPoint" />
+            <mxPoint x="320" y="300" as="sourcePoint" />
+            <mxPoint x="560" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="hLZOCiNGZijec_69T5MD-7" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="1-cIDiVZa9EnnmiFmrUG-8" edge="1">
@@ -114,38 +114,38 @@
         </mxCell>
         <mxCell id="hLZOCiNGZijec_69T5MD-9" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="1-cIDiVZa9EnnmiFmrUG-9" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="260" y="300" as="sourcePoint" />
+            <mxPoint x="320" y="300" as="sourcePoint" />
             <mxPoint x="440" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="hLZOCiNGZijec_69T5MD-12" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="1-cIDiVZa9EnnmiFmrUG-18" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="620" y="300" as="sourcePoint" />
+            <mxPoint x="560" y="300" as="sourcePoint" />
             <mxPoint x="440" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="hLZOCiNGZijec_69T5MD-13" value="" style="endArrow=none;html=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="260" y="450" as="sourcePoint" />
-            <mxPoint x="620" y="450" as="targetPoint" />
+            <mxPoint x="320" y="500" as="sourcePoint" />
+            <mxPoint x="560" y="500" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="hLZOCiNGZijec_69T5MD-14" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="1-cIDiVZa9EnnmiFmrUG-22" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="440" y="450" as="sourcePoint" />
+            <mxPoint x="440" y="500" as="sourcePoint" />
             <mxPoint x="440" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="hLZOCiNGZijec_69T5MD-15" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="1-cIDiVZa9EnnmiFmrUG-10" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="260" y="450" as="sourcePoint" />
-            <mxPoint x="440" y="400" as="targetPoint" />
+            <mxPoint x="320" y="500" as="sourcePoint" />
+            <mxPoint x="445" y="450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hLZOCiNGZijec_69T5MD-16" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="1-cIDiVZa9EnnmiFmrUG-20" edge="1">
+        <mxCell id="hLZOCiNGZijec_69T5MD-16" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="620" y="450" as="sourcePoint" />
-            <mxPoint x="440" y="400" as="targetPoint" />
+            <mxPoint x="559" y="500" as="sourcePoint" />
+            <mxPoint x="558.5" y="480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
